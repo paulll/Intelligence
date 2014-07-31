@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "SpeechAPI",
+  "description": "Speech API wrapper",
+  "version": "1.0",
+  "author": "paulll",
+
+  "offline_enabled": true,
+  "background": {
+    "persistent": true,
+    "scripts": ["background.js"]
+  }
+}
